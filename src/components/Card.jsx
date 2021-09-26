@@ -42,9 +42,6 @@ const Card = ({title_episode, description,imageEpisode }) => {
                     { description }
                 </p>
              </div>
-             
-             
-            
         </CardUi>
     )
 }
